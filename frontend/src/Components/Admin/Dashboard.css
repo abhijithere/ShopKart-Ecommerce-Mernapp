@@ -1,0 +1,13 @@
+.flc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+   
+.doughnutChart {
+    width: 30vmax;
+    /* margin: auto; */
+  }
+  .axx{
+    background-color:  #7058b7;
+  }

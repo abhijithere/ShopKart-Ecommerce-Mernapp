@@ -1,0 +1,9 @@
+.productListTable a:hover {
+    color: rgb(33, 187, 187);
+  }
+  .productListTable button:hover {
+    color: rgb(236, 30, 30);
+  }
+  .productListTable a,.productListTable button{
+    color:rgb(73, 86, 104);
+  }
